@@ -1,6 +1,6 @@
 # Behavioral Design Patterns Repository
 
-[**Versão em Português**](/pt/README.md)
+[**Versão em Português**](/pt/README.md) </br>
 [**Pусская версия**](/ru/README.md)
 
 Welcome to the Behavioral Design Patterns repository! Here you will find detailed explanations, examples, and insights on various behavioral design patterns. This repository is intended for both beginners and experienced professionals looking to enhance their knowledge of design patterns.

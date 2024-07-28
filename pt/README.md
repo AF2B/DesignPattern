@@ -1,6 +1,6 @@
 # Repositório de Padrões de Design Comportamentais
 
-[**English Version**](/README.md)
+[**English Version**](/README.md) </br>
 [**Pусская версия**](/ru/README.md)
 
 Bem-vindo ao repositório de Padrões de Design Comportamentais! Aqui você encontrará explicações detalhadas, exemplos e insights sobre vários padrões de design comportamentais. Este repositório é destinado tanto para iniciantes quanto para profissionais experientes que desejam aprimorar seu conhecimento sobre padrões de design.
